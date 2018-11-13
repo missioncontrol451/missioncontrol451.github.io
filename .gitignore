@@ -1,0 +1,6 @@
+venv
+_posts
+_site
+*.lock
+.sass-cache
+images/logo27.png
